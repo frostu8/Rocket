@@ -1,0 +1,14 @@
+C:\Users\train\source\repos\Rocket\Rocket\bin\Debug\Rocket.dll
+C:\Users\train\source\repos\Rocket\Rocket\bin\Debug\Rocket.pdb
+C:\Users\train\source\repos\Rocket\Rocket\bin\Debug\Assembly-CSharp.Base.mm.dll
+C:\Users\train\source\repos\Rocket\Rocket\bin\Debug\Assembly-CSharp.dll
+C:\Users\train\source\repos\Rocket\Rocket\bin\Debug\UnityEngine.Base.mm.dll
+C:\Users\train\source\repos\Rocket\Rocket\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\train\source\repos\Rocket\Rocket\bin\Debug\Ionic.Zip.dll
+C:\Users\train\source\repos\Rocket\Rocket\bin\Debug\Mono.Cecil.dll
+C:\Users\train\source\repos\Rocket\Rocket\bin\Debug\Newtonsoft.Json.dll
+C:\Users\train\source\repos\Rocket\Rocket\obj\Debug\Rocket.csprojAssemblyReference.cache
+C:\Users\train\source\repos\Rocket\Rocket\obj\Debug\Rocket.csproj.CoreCompileInputs.cache
+C:\Users\train\source\repos\Rocket\Rocket\obj\Debug\Rocket.csproj.CopyComplete
+C:\Users\train\source\repos\Rocket\Rocket\obj\Debug\Rocket.dll
+C:\Users\train\source\repos\Rocket\Rocket\obj\Debug\Rocket.pdb
